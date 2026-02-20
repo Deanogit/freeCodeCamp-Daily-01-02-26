@@ -18,9 +18,14 @@ function digitalDetox(logs) {
   }
   console.log(res);
 
+  // hold a previous day value??
+  // loop through res
+  for (let day of res) {
+  }
+
   // logged in no more than once within any four-hour period
   // logged in no more than 2 times on any single day
-  return logs;
+  //  return logs;
 }
 
 digitalDetox([
