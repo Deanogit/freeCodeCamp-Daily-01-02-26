@@ -1,4 +1,5 @@
-Digital Detox
+## Digital Detox
+
 Given an array of your login logs, determine whether you have met your digital detox goal.
 
 Each log is a string in the format "YYYY-MM-DD HH:mm:ss".
