@@ -24,6 +24,14 @@ function digitalDetox(logs) {
   }
 
   // logged in no more than once within any four-hour period
+  // check login[1] - login[0]
+  // login[0] = 1, login[1] = 5
+  // 5 - 1 = 4
+  // is greater than or equal to 4
+  // so pass it into an array??
+  // how to set up the initial value? boolean?
+  //
+
   // logged in no more than 2 times on any single day
   //  return logs;
 }
